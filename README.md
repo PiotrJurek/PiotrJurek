@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Piotr Jurek.
-
----
+# Hi there 👋, I'm Piotr Jurek.
 
 <a href="mailto:piotrjurek9@gmail.com">
   <img src="https://img.shields.io/badge/piotrjurek9@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail Badge"/>
@@ -11,9 +9,8 @@
 
 I'm a Computer Science student at Lodz University of Technology with willingness to learn all new things related to IT. 
 C# is my passion, with C++ in a solid second place. I don't like remembering everything, so documentation is my best friend.
-<br><br>
-<blockquote> "Never memorize what you can look up in books" -Albert Einstein </blockquote>
 <br>
+<blockquote> "Never memorize what you can look up in books" -Albert Einstein </blockquote>
 
 ### 👨🏻‍💻 What I can do very well:
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
