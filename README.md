@@ -35,7 +35,7 @@ C# is my passion, with C++ in a solid second place. I don't like remembering eve
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 ### 🔥 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NothingDoer&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrJurek&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NothingDoer/NothingDoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
